@@ -6,7 +6,6 @@ import gameBoard
 import drawPlayer
 import colFont
 import Mouse
-#import testes
 
 pygame.init()
 
@@ -30,3 +29,4 @@ while running:
         pygame.display.flip()
 
 pygame.quit()
+
